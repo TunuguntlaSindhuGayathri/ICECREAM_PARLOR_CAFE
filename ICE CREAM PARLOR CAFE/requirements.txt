@@ -1,2 +1,0 @@
-SQLite is part of Python's standard library, so no additional packages are required.
-
