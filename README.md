@@ -11,7 +11,7 @@ Make sure you have installed :
 ## Installation Steps:
 
 1.Clone repository
-->git clone <repository-url>
+->git clone <https://github.com/TunuguntlaSindhuGayathri/ICECREAM_PARLOR_CAFE.git>
 ->cd <repository-folder>
 
 2.Setup the database
@@ -69,8 +69,8 @@ cart.py, database.py, models.py, utils.py: Modules for different aspects of the 
 1. **Clone the repository**
 
    ```sh
-   git clone <repository-url>
-   cd ice-cream-parlor-cafe
+   git clone <https://github.com/TunuguntlaSindhuGayathri/ICECREAM_PARLOR_CAFE.git>
+   cd ICECREAM_PARLOR_CAFE
    ```
 
 2. **Create and activate a virtual environment**
