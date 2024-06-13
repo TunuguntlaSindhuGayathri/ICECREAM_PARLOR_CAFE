@@ -81,3 +81,35 @@ main.py: It imports and runs the main_menu function from the app module.
 app.py: Main application script.
 
 cart.py, database.py, models.py, utils.py: Modules for different aspects of the application (cart management, database operations, data models, utility functions).
+
+##Docker File 
+1. **Clone the repository**
+
+    ```sh
+    git clone <repository-url>
+    cd ice-cream-parlor-cafe
+    ```
+
+2. **Create and activate a virtual environment**
+
+    ```sh
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+
+3. **Install dependencies**
+
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+4. **Initialize the database**
+
+    ```sh
+    python initialize_db.py
+    ```
+
+5. **Run the main application**
+
+    ```sh
+    python app.py
