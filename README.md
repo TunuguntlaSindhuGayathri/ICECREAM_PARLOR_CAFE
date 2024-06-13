@@ -55,83 +55,8 @@ cart.py, database.py, models.py, utils.py: Modules for different aspects of the 
 
 ## Documentation of test steps
 
-Welcome to the Ice Cream Parlor Cafe
-
-1. View and Search Seasonal Flavor Offerings
-2. View Ingredient Inventory
-3. Add Customer Flavor Suggestion
-4. Add Allergy Concern
-5. Manage Cart
-6. Exit
-   Enter your choice: 1
-   Enter flavor to search for (leave blank to view all):
-   ID: 1, Name: Vanilla, Seasonal: 1
-   ID: 2, Name: Chocolate, Seasonal: 0
-   ID: 3, Name: Strawberry, Seasonal: 1
-   Select an action:
-7. Add to cart
-8. Add to favorites
-   Enter your choice: 2
-   Enter the ID of the flavor to add to favorites: 3
-   Strawberry added to favorites.
-9. View and Search Seasonal Flavor Offerings
-10. View Ingredient Inventory
-11. Add Customer Flavor Suggestion
-12. Add Allergy Concern
-13. Manage Cart
-14. Exit
-    Enter your choice: 1
-    Enter flavor to search for (leave blank to view all):
-    ID: 1, Name: Vanilla, Seasonal: 1
-    ID: 2, Name: Chocolate, Seasonal: 0
-    ID: 3, Name: Strawberry, Seasonal: 1
-    Select an action:
-15. Add to cart
-16. Add to favorites
-    Enter your choice: 1
-    Enter the ID of the flavor to add to cart: 2
-    Chocolate added to cart.
-17. View and Search Seasonal Flavor Offerings
-18. View Ingredient Inventory
-19. Add Customer Flavor Suggestion
-20. Add Allergy Concern
-21. Manage Cart
-22. Exit
-    Enter your choice: 2
-    ID: 1, Name: Milk, Quantity: 20
-    ID: 2, Name: Sugar, Quantity: 15
-    ID: 3, Name: Vanilla Extract, Quantity: 5
-23. View and Search Seasonal Flavor Offerings
-24. View Ingredient Inventory
-25. Add Customer Flavor Suggestion
-26. Add Allergy Concern
-27. Manage Cart
-28. Exit
-    Enter your choice: 5
-29. View Favorites
-30. Add item to cart
-31. Remove item from cart
-32. View cart
-33. Clear cart
-34. Go back
-    Enter your choice: 1
-    Favorite items:
-    Strawberry
-35. View Favorites
-36. Add item to cart
-37. Remove item from cart
-38. View cart
-39. Clear cart
-40. Go back
-    Enter your choice: 6
-41. View and Search Seasonal Flavor Offerings
-42. View Ingredient Inventory
-43. Add Customer Flavor Suggestion
-44. Add Allergy Concern
-45. Manage Cart
-46. Exit
-    Enter your choice: 6
-    Thank you for visiting the Ice Cream Parlor Cafe!
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## SQL Query or ORM abstraction Implementation
 
