@@ -1,0 +1,12 @@
+# requirements.txt
+
+# SQLite database interface for Python
+sqlite3
+
+# ORM (Object-Relational Mapping) library for interacting with databases
+SQLAlchemy
+
+# Utility functions for database operations
+psycopg2
+
+#SQLite is part of Python's standard library, so no additional packages are required.
